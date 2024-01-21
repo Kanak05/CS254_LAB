@@ -1,0 +1,3 @@
+The least element of the given unsorted array is: 2
+While the second least element is: 9
+The time taken to run the program is: 0.008 sec
