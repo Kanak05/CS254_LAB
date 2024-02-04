@@ -1,0 +1,11 @@
+Number of Inversions: 1971932839
+Number of Inversions: 120967640682
+Number of Inversions: 1642185325
+Number of Inversions: 19011548116
+Number of Inversions: 224261060923
+Number of Inversions: 149033907174
+Number of Inversions: 155206609876
+Number of Inversions: 217122795
+Number of Inversions: 31271450299
+Number of Inversions: 851236696
+The time taken to run the program is: 4.509 sec

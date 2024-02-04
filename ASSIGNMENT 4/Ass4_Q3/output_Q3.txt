@@ -1,0 +1,11 @@
+639753th largest element is: -3788825
+548399th largest element is: -7315911
+17031th largest element is: 8648105
+426817th largest element is: 828101
+25947th largest element is: 8811686
+48156th largest element is: 6095081
+369654th largest element is: -837856
+303270th largest element is: 3807649
+57536th largest element is: 7297178
+45118th largest element is: 4925267
+The time taken to run the program is: 6.069 sec

@@ -1,0 +1,6 @@
+Median of the two sorted arrays: -3957
+Median of the two sorted arrays: 8575
+Median of the two sorted arrays: -6754.5
+Median of the two sorted arrays: -4742
+Median of the two sorted arrays: -16467
+The time taken to run the program is: 0.824 sec
