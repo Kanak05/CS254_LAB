@@ -8,4 +8,4 @@
 303270th largest element is: 3807649
 57536th largest element is: 7297178
 45118th largest element is: 4925267
-The time taken to run the program is: 6.069 sec
+The time taken to run the program is: 5.859 sec
